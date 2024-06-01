@@ -1,4 +1,5 @@
-baseURL = './'
+baseURL = '/website.mieszkancy-bgw/'
+# baseURL = 'website.mieszkancy-bgw/'
 defaultContentLanguage = 'pl'
 languageCode = 'pl-PL'
 title = 'Mieszkańcy Bohaterów Getta Warszawskiego'

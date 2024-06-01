@@ -1,0 +1,12 @@
+baseURL = 'https://mieszkancybgw.pl/'
+defaultContentLanguage = 'pl'
+languageCode = 'pl-PL'
+title = 'Mieszkańcy Bohaterów Getta Warszawskiego'
+
+[params]
+    titleShort = 'Mieszkańcy BGW'
+    subtitle = 'o linii tramwajowej Gdańsk Południe - Wrzeszcz'
+
+
+# chronology
+# https://codepen.io/MarkBoots/pen/OJOqNyB

@@ -16,7 +16,7 @@
         <h2>Ostatnia tygodniówka tramwajowa</h2>
         {{ range (where .Site.Pages "Section" "tygodniowka") }}
             {{ range first 1 .Pages }}
-                {{ .Date | time.Format ":date_long" }} <a href="{{ .Permalink }}">{{ .Title | humanize | title }}</a>
+                {{ .Date | time.Format ":date_long" }} <a href="{{ .Permalink }}">{{ .Title | humanize }}</a>
                 <p>{{ .Summary }}</p>
             {{ end }}
         {{ end }}
@@ -27,7 +27,7 @@
         <h2>Kalendarium</h2>
         {{ range (where .Site.Pages "Section" "kalendarium") }}
             {{ range .Pages }}
-                {{ .Date | time.Format ":date_long" }} <a href="{{ .Permalink }}">{{ .Title | humanize | title }}</a>
+                {{ .Date | time.Format ":date_long" }} <a href="{{ .Permalink }}">{{ .Title | humanize }}</a>
                 <p>{{ .Summary }}</p>
             {{ end }}
         {{ end }}

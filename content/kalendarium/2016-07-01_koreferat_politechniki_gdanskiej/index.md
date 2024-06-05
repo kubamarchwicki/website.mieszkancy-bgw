@@ -9,6 +9,16 @@ Na zlecenie Dyrekcja Rozbudowy Miasta Gdańska siedzibą, zespół naukowców Po
 
 <!--more-->
 
+* Raport Politechniki Gdańskiej
+  * [Treść raportu](01_Opis/01_Korefert_Raport.pdf)
+  * [Załączniki](01_Opis/02_Korefert_zalaczniki.pdf)
+* Plansze
+  * [Wariant W1.1A1](02_Plansze_PDF/01_Wariant_W1.1A1.pdf)
+  * [Wariant W1.1B4_1](02_Plansze_PDF/02_Wariant_W1.1B4_1.pdf)
+  * [Wariant W1.1B4_2](02_Plansze_PDF/02_Wariant_W1.1B4_2.pdf)
+  * [Wariant W1.1C1_1](02_Plansze_PDF/03_Wariant_W1.1C1_1.pdf)
+  * [Wariant W1.1C1_2](02_Plansze_PDF/03    _Wariant_W1.1C1_2.pdf)
+ 
 <!-- TODO: tutaj powinien być abstrakt z koreferatu -->
 
 ## Wnioski przedstawione przez naukowców Politechniki Gdańskiej

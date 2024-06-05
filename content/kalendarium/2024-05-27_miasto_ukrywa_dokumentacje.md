@@ -2,7 +2,7 @@
 title = 'Miasto ukrywa, że ukrywa dokumentacje'
 date = '2024-05-27'
 draft = false
-tags = ['dokumentacja', 'wideo']
+tags = ['dokumentacja', 'wideo', 'kalendarium']
 +++
 
 Nagraliśmy odpowiedź wideo na wywiad wiceprezydenta Piotra Grzelaka w Radiu Gdańsk, wywiad w którym prezydent poświęcił nam sporo czasu. 

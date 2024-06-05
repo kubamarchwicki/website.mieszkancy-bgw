@@ -2,7 +2,7 @@
 title = 'Pierwsze koncepcje trasy tramwajowej'
 date = '2014-06-30'
 draft = false
-tags = ['dokumentacja', 'wideo']
+tags = ['dokumentacja', 'wideo', 'kalendarium']
 +++
 
 Pierwsze wzmianki na temat nowej trasy komunikacyjnej tzw. Nowej Politechnicznej, pojawiły się w czerwcu 2014 roku. Oto historyczna prezentacja koncepcji trasy.

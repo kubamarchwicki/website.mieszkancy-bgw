@@ -13,6 +13,18 @@
         {{ .Content }}
     </div>
     <div>
+        <h2>Ostatnia tygodniówka tramwajowa</h2>
+        {{ range (where .Site.Pages "Section" "tygodniowka") }}
+            {{ range first 1 .Pages }}
+                {{ .Date | time.Format ":date_long" }} <a href="{{ .Permalink }}">{{ .Title | humanize | title }}</a>
+                <p>{{ .Summary }}</p>
+            {{ end }}
+        {{ end }}
+        {{/*
+        <pre>{{ debug.Dump .Site.AllPages }}</pre> */}}
+    </div>
+    <div>
+        <h2>Kalendarium</h2>
         {{ range (where .Site.Pages "Section" "kalendarium") }}
             {{ range .Pages }}
                 {{ .Date | time.Format ":date_long" }} <a href="{{ .Permalink }}">{{ .Title | humanize | title }}</a>

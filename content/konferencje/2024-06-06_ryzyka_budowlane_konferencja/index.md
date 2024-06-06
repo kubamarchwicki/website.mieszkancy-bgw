@@ -13,6 +13,7 @@ Reakcje prasowe na naszą konferencję:
 * trojmiasto.pl: https://www.trojmiasto.pl/wiadomosci/Tramwaj-zniszczy-kamienice-n190043.html
 * Zawsze Pomorze: https://www.zawszepomorze.pl/artykul/14074,protest-na-bohaterow-getta-warszawskiego-w-gdansku-chcemy-usiasc-do-rozmow
 * Radio Gdańsk: https://radiogdansk.pl/wiadomosci/region/trojmiasto/2024/06/06/czesc-mieszkancow-gdanska-nie-chce-nowej-linii-tramwajowej-protest-trwa-posluchaj/
+* TVP3 - Forum Panoramy: https://gdansk.tvp.pl/77934571/06062024 (dyskusja z Dyrektorem DRMG - Krzysztofem Małkowskim)
 
 Po ostatniej konferencji, nasza sprawa zyskała rozgłos i pod koniec maja uzyskaliśmy dostęp do znacznej części dokumentacji projektowej tramwaju od Dyrekcji Rozwoju Miasta Gdańska.
 Urząd Miejski nadal odmawia nam wydania niektórych dokumentów, w związku z czym sprawę skierowaliśmy do Wojewódzkiego Sądu Administracyjnego. Została ona zarejestrowana, czekamy na termin rozprawy. Niewydanie nam dokumentacji dowodzi, że “dialog z mieszkańcami” jest tylko frazesem w ustach prezydent Dulkiewicz oraz wiceprezydenta Grzelaka, i że w rzeczywistości, w Gdańsku z władzami można dyskutować jedynie o sprawach które nie kolidują z interesami władz miasta, najlepiej na festynach.

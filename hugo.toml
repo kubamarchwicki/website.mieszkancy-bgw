@@ -7,5 +7,12 @@ title = 'Mieszkańcy Bohaterów Getta Warszawskiego'
     titleShort = 'Mieszkańcy BGW'
     subtitle = 'o linii tramwajowej Gdańsk Południe - Wrzeszcz'
 
+[params.social]
+description = "Mieszkańcy Bohaterów Getta o inwestycji tramwajowej GP-W."
+
+[params.social.opengraph]
+fb = "img/social/bgw-opengraph.jpg"
+twitter = "img/social/bgw-opengraph-sq.jpg" 
+
 # chronology
 # https://codepen.io/MarkBoots/pen/OJOqNyB

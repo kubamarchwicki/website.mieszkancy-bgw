@@ -1,5 +1,21 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
+
+<!-- Social: Twitter -->
+<meta name="twitter:card" content="summary">
+{{/*  <meta name="twitter:site" content="@segfaultevents">  */}}
+<meta name="twitter:title" content="{{ site.Title }}">
+<meta name="twitter:image" content="{{ absURL site.Params.social.opengraph.twitter }}">
+<meta name="twitter:description" content="{{ site.Params.social.description }}">
+
+<!-- Social: Facebook / Open Graph -->
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:title" content="{{ site.Title }}">
+<meta property="og:type" content="website">
+<meta property="og:description" content="{{ site.Params.social.description }}">
+<meta property="og:image" content="{{ absURL site.Params.social.opengraph.fb }}">
+<meta property="og:image" content="{{ absURL site.Params.social.opengraph.twitter }}">
+
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Params.titleShort }}{{ end }}</title>
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}

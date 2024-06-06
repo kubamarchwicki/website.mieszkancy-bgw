@@ -24,7 +24,7 @@
         <pre>{{ debug.Dump .Site.AllPages }}</pre> */}}
     </div>
     <div>
-        <h2>Kalendarium</h2>
+        <h2>Kalendarium i historia projektu</h2>
         {{ range (where .Site.Pages "Section" "kalendarium") }}
             {{ range .Pages }}
                 {{ .Date | time.Format ":date_long" }} <a href="{{ .Permalink }}">{{ .Title | humanize }}</a>
@@ -32,6 +32,17 @@
             {{ end }}
         {{ end }}
         {{/*  <pre>{{ debug.Dump .Site.AllPages }}</pre>  */}}
+    </div>
+    <div>
+        <h2>Konferencje prasowe</h2>
+        {{ range (where .Site.Pages "Section" "konferencje") }}
+        {{ range .Pages }}
+        {{ .Date | time.Format ":date_long" }} <a href="{{ .Permalink }}">{{ .Title | humanize }}</a>
+        <p>{{ .Summary }}</p>
+        {{ end }}
+        {{ end }}
+        {{/*
+        <pre>{{ debug.Dump .Site.AllPages }}</pre> */}}
     </div>
 </main>
 {{ end }}

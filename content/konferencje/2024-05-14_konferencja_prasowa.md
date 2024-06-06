@@ -1,8 +1,8 @@
 +++
-title = 'Konferencja prasowa dotycząca dokumentacji'
+title = '... o nieudostępnianej dokumentacji'
 date = '2024-05-14'
 draft = false
-tags = ['dokumentacja', 'wideo', 'kalendarium']
+tags = ['dokumentacja', 'wideo', 'konferencja prasowa']
 +++
 
 Zorganizowaliśmy konferencję prasową o tym jak miasto utrudnia nam dostęp do dokumentacji projektu tramwaju na ulicy Bohaterów Getta Warszawskiego

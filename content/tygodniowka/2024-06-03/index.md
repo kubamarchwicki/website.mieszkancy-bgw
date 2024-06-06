@@ -15,7 +15,7 @@ Jesteśmy w trakcie analizy dokumentacji budowlanej którą otrzymaliśmy z Dyre
 Projekty wykonawcze są szczególnie istotne, bo tam powinien znaleźć się opis w jaki sposób inwestor (czyli miasto) planuje zabezpieczyć nasze domy przed zawaleniem, zarówno w trakcie budowy jak i podczas późniejszej eksploatacji. A jest przed czym zabezpieczać. Już oficjalnie wiemy, że naszym domom grozi podczas prac budowlanych katastrofa budowlana. Na załączonym elemencie dokumentacji jasno widać potencjalny wpływ wykopu pod ulicą na nasze kamienice. To także dowód na to, że na poprzednich etapach uzgodnień byliśmy oszukiwani i władze oraz firmy działające na ich zlecenie ukrywały przed nami realne ryzyko jakie niesie ta inwestycja
 ![Zakres wykopu](wykop.png)
 
-Pobierz pełen PDF: https://mieszkancybgw.pl/tygodniowka/2024-06-03/22_ZRID3_HYD_Rys.2.5_zasieg_wykopu.pdf
+Pobierz pełen PDF: https://mieszkancybgw.pl/tygodniowka/2024-06-03/zasieg_wykopu.pdf
 
 Podczas dotychczasowych rozmów z miastem byliśmy oszukiwani także w innych kwestiach. Zwodzono nas, że po naszej ulicy pojadą tramwaje akumulatorowe i nie trzeba będzie zawieszać trakcji elektrycznej. Trakcja oczywiście wbrew obietnicom została zaplanowana - jak na zdjęciu poniżej.
 ![Wizualizacja trakcji tramwajowej](trakcja.png)

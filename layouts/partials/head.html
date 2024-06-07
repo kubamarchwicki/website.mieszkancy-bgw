@@ -17,5 +17,10 @@
 <meta property="og:image" content="{{ absURL site.Params.social.opengraph.twitter }}">
 
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Params.titleShort }}{{ end }}</title>
+
+<!-- 100% privacy-first analytics -->
+<script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
+
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}

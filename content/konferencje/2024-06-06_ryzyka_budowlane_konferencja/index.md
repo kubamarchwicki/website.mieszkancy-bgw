@@ -22,8 +22,9 @@ Urząd Miejski nadal odmawia nam wydania niektórych dokumentów, w związku z c
 **Miasto ukrywało zagrożenie dla naszych domów**
 Zapoznaliśmy się ze znaczną częścią dokumentacji budowlanej, potrzebnej do uzyskania zgody na budowę i napawa nas ona grozą. Zdajemy sobie już sprawę, czemu urzędnicy pani Dukiewicz nie chcieli podzielić się z nami tymi planami. Teraz już nie tylko domyślamy się, ale wiemy, jakie zagrożenie stanowić będzie dla naszych zabytkowych kamienic powstanie trasy tramwajowej przez ul. Bohaterów Getta Warszawskiego. Przedstawiamy Państwu mapę, na której autorzy dokumentacji zaznaczyli strefy zagrożenia uszkodzeniem budynków albo nawet ich zawaleniem, które może nastąpić już na etapie budowy trasy.
 
-![Zakres wykopu](wykop.png)
-(pełna mapa: https://mieszkancybgw.pl/tygodniowka/2024-06-03/zasieg_wykopu.pdf ) 
+![Zakres wykopu](zasieg_wykopu.png)
+(pełna mapa: https://mieszkancybgw.pl/tygodniowka/2024-06-03/zasieg_wykopu.pdf) 
+(mapa uproszczona: https://mieszkancybgw.pl/tygodniowka/2024-06-03/zasieg_wykopu-uproszczony.pdf) 
 
 Z czego wynika to zagrożenie? Okazuje się, że wraz z budową torowiska władze miasta zdecydowały się umieścić pod powierzchnią naszej ulicy podziemny zbiornik retencyjny, który ma zastąpić dotychczasowy znacznie węższy kanał ulgi Potoku Królewskiego. Do jego wykonania niezbędne jest z kolei wykonanie głębokich otwartych wykopów w bliskim sąsiedztwie naszych domów. Betonowe komory mają mieć wielkość prawie 6 na 2 metry.
 Tu trzeba dodać, że władze miasta starając się o decyzję środowiskową wystąpiły o możliwość przebudowy Kanału Potoku Królewskiego, ale miało się to zamykać w przekroju wewnętrznym 3 na 2 metry. Jest to skandaliczna niezgodność projektu budowlanego, który powinien realizować uzgodnienia zapisane w decyzji środowiskowej. 

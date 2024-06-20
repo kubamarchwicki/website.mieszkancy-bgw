@@ -20,10 +20,10 @@ Zabraliśmy głos podczas absolutoryjnej sesji Rady Miasta Gdańsk. Michał Bła
 * [Pełna wypowiedź Michała Błauta - PDF](rada_michal-blaut.pdf)
   * [Niebezpieczeństwo wykopu - wersja uproszczona](A3_dolina_bilboard.pdf)
   * [Niebezpieczeństwo wykopu - wersja z dokumentacji](A3_zasieg_wykopu.pdf)
-  * [Koreferat Politechniki Gdańskiej](A3_zasieg_wykopu.pdf)
+  * [Koreferat Politechniki Gdańskiej](01_Korefert_Raport.pdf)
   * [Koreferat PG - Wariant 1](A3_jamroz01.pdf)
-  * [Koreferat PG - Wariant 2](A3_jamroz02.pdf)
-  * [Porównanie wariantów BGW - Do Studzienki](A4_porowanie.pdf)
+  * [Koreferat PG - Wariant 2](A4_jamroz02.pdf)
+  * [Porównanie wariantów BGW - Do Studzienki](A4_porownanie.pdf)
 
 ![Porównanie wariantów](porownanie_wariantow.png)
 

@@ -10,6 +10,10 @@ Zabraliśmy głos podczas absolutoryjnej sesji Rady Miasta Gdańsk. Michał Bła
 
 <!--more-->
 
+Skrócony zapis sesji, zawierający wypowiedzi mieszkańców BGW (Jakub Marchwicki i Michał Bałut) oraz poruszający kwestie Manhattanu (Agnieszka Wąsowska - Telęga), a także odpowiedzi prezydentów (Dulkiewicz i Grzelak) na poruszone kwestie. 
+
+{{< youtube YZLNpcAQbGc >}}
+
 ## Michał Błaut
 
 > Michał skupił się na kontrowersjach wokół inwestycji tramwajowych w Gdańsku, w szczególności budowy trasy przez ul. Klonową do dworca we Wrzeszczu oraz ul. Bohaterów Getta Warszawskiego. Władze Gdańska przeznaczyły 2 mln zł na dokumentację budowlaną 250-metrowego odcinka trasy przez ul. Klonową, jednak projekt ten jest realizowany bez konsultacji społecznych i bez uzyskania decyzji środowiskowej, co budzi obawy o zlekceważenie procedur ochrony środowiska i interesów mieszkańców.

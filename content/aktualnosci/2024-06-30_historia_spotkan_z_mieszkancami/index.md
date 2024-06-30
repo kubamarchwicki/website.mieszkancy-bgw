@@ -1,18 +1,18 @@
 +++
-title = '... o historii "Konsultacji Społecznych" w sprawie tzw. Nowej Politechnicznej'
+title = '... o historii "spotkań informacyjnych" w sprawie tzw. Nowej Politechnicznej'
 date = '2024-06-30'
 draft = false
 tags = ['aktualnosci']
 unlisted = true
 +++
 
-Miasto przez cały czas trwania projektu nie przeprowadziło konsultacji społecznych odnośnie przebiegu trasy, natomiast regularnie podciągając inne projekty jako konsultacje społeczne trasy Gdańsk Południe - Wrzeszcz, naciągając tym samym fakty. 
+Miasto przez cały czas trwania projektu nie przeprowadziło konsultacji społecznych odnośnie przebiegu trasy, natomiast regularnie podciągając inne projekty jako konsultacje społeczne trasy Gdańsk Południe - Wrzeszcz, nagina tym samym fakty. 
 
 <!--more-->
 
 Miasto regularnie powołuje się na 
  - warsztaty przeprowadzane przez Biuro Architekta Miasta Gdańska w 2022 roku,
- - konsultacje społeczne przeprowadzone w 2016 roku,
+ - spotkania informacyjne przeprowadzone z mieszkańcami w 2016 roku,
  - głos mieszkańców o uniknięciu wyburzenia historycznej tkanki (pięciu kamienic przy ulicy Do Studzienki: 4,5,6, 18/20 i 24) - w ramach konsultacji innego rejonu Gdańska w 2015 roku. 
 
 Niemniej jednak, spotkanie te albo nie dotyczyły rzeczonej inwestycji (trasy Nowa Politechniczna), albo nie były konsultacjami społecznymi w myśl uchwały Rady Miasta Gdańska (Uchwała Rady Miasta Gdańska nr XVI/494/15, z dnia 26 listopada 2016r. w sprawie określenia zasad i trybu przeprowadzania konsultacji społecznych z mieszkańcami miasta Gdańska - [treść uchwały PDF](Uchwala-Nr-XVI-494-15-Rady-Miasta-Gdanska.pdf)), tzn. nie spełniały przynajmniej części z wymagań narzuconych przez uchwałę. To znaczy (między innymi):
@@ -24,7 +24,7 @@ Niemniej jednak, spotkanie te albo nie dotyczyły rzeczonej inwestycji (trasy No
 
 ---
 
-Jedno ze spotkań na które powołuje się miasto - jako na konsultacje społeczne - to spotkania organizowane przez Biuro Architekta Miasta, dotyczące "nowych przestrzeni Do Studzienki". Spotkania odbywały się w dniach:
+Jedno ze spotkań na które powołuje się miasto - przedstawiając je jako konsultacje społeczne - to warsztaty organizowane przez Biuro Architekta Miasta, dotyczące "nowych przestrzeni Do Studzienki". Spotkania odbywały się w dniach:
 * 27 czerwca 2022 roku w budynku UM w Gdańsku
 * 29 września 2022 w Budynku Hydromechaniki PG
 * 24 października 2022 w Budynku Hydromechaniki PG
@@ -44,14 +44,19 @@ oraz informacji harmonogramowych
 
 Kolejne spotkania to spotkania informacyjne organizowane przez Biuro Rozwoju Miasta Gdańska, Dyrekcję Rozbudowy Miasta Gdańska oraz spółkę Mosty Katowice. Nie były konsultacjami, a spotkaniami informacyjnymi - wedle słów organizatorów podczas spotkania.
 * https://youtu.be/PpE1Ti2414A?feature=shared&t=255 - spotkanie informacyjne Szkoła Rzemiosł, 2016-04-05, minuta 04:20
+* https://youtu.be/PpE1Ti2414A?feature=shared&t=4338 - spotkanie informacjne Szkoła Rzemiosł, 2016-04.05, godzina 1:12:16
 * https://youtu.be/0wI-c6uNS6Y?feature=shared&t=135 - spotkanie informacyjne w SP17, 2016-04-12 minuta 2:15
 
-Spotkania odbywały się w poniższych dniach. Załączone raporty ze spotkań były wewnętrznymi dokumentami Dyrekcji Rozbudowy Miasta Gdańska o które wystąpiliśmy (raporty nie były publikowane):
+Spotkania odbywały się w wymienionych poniżej dniach. Załączone raporty ze spotkań były wewnętrznymi dokumentami Dyrekcji Rozbudowy Miasta Gdańska o które wystąpiliśmy (raporty nie były publikowane):
 * 16 marca 2016 w XX LO w Gdańsku ([raport ze spotkania - PDF](1_raport_xx_lo_20160316.pdf))
 * 5 kwietnia 2016 w Pomorskiej Szkole Rzemiosł w Gdańsku ([raport ze spotkania - PDF](2_raport_psr_20160405.pdf))
 * 12 kwietnia 2016 w Szkole Podstawowej nr 17 w Gdańsku ([raport ze spotkania - PDF](3_raport_sp17_20160412.pdf))
 * 20 kwietnia 2016 w ZKPiG 2 w Gdańsku ([raport ze spotkania - PDF](4_raport_sp85_20160420.pdf))
 * 27 kwietnia 2016 w  Szkole Podstawowej nr 12 w Gdańsku ([raport ze spotkania - PDF](5_raport_sp12_20160427.pdf))
+
+![Ulotka informacyjna 1](ulotka_informacyjna_1.jpeg)
+
+![Ulotka informacyjna 1](ulotka_informacyjna_2.jpeg)
 
 Nie były to konsultacje także ze względu na to że uwagi mieszkańców nie były zbieranie, nie udzielano odpowiedzi na pytania mieszkańców oraz uwagi mieszkańców nie były elementem raportu - nigdy nie zostały opracowane. Dyrekcja Rozbudowy Miasta Gdańska (organizująca spotkania), zapytana o pytania (o listę zgłoszonych uwag i opinii, wraz z odpowiedziami) mieszkańców odpowiedziała:
 > Realizacja wniosku wymaga ponadstandardowego nakładu pracy, wymagającej użycia dodatkowych sił i środków oraz zaangażowania intelektualnego w stosunku do posiadanych przez niego danych, a informacja wyodrębniana byłaby jedynie w związku z żądaniem wnioskodawcy oraz na podstawie kryteriów przez niego wskazanych, uznać należy, że żądana informacja jest informacją przygotowywaną "specjalnie" dla wnioskodawcy wedle wskazanych przez niego kryteriów, na podstawie pierwotnego zasobu danych, a więc informacją przetworzoną. 

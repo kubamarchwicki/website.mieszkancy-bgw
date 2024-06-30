@@ -2,7 +2,7 @@
 title = '... o wystąpieniach podczas absolutoryjnej sesji Rady Miasta Gdańsk'
 date = '2024-06-20'
 draft = false
-tags = ['konferencja prasowa', 'kalendarium']
+tags = ['aktualnosci', 'konferencja prasowa', 'kalendarium']
 aliases = ['/kalendarium/2024-06-20_sesja_rady_miasta/']
 +++
 

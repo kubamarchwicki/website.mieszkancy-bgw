@@ -2,7 +2,7 @@
 title = '... o nieudostępnianej dokumentacji - konferencja prasowa'
 date = '2024-05-14'
 draft = false
-tags = ['dokumentacja', 'wideo', 'konferencja prasowa']
+tags = ['aktualnosci', 'dokumentacja', 'wideo', 'konferencja prasowa']
 aliases = ['konferencje/2024-05-14_konferencja_prasowa/']
 +++
 

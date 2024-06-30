@@ -1,7 +1,7 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Pages }}
+  {{ range where .Pages ".Params.unlisted" "!=" "true" }}
     <h2><small>{{ .Date | time.Format ":date_long" }}</small> - <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
     {{ .Summary }}
   {{ end }}

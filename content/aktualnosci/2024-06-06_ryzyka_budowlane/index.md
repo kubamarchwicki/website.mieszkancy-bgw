@@ -2,7 +2,7 @@
 title = '... o szczegółach projektu budowlanego - konferencja prasowa'
 date = '2024-06-06'
 draft = false
-tags = ['dokumentacja', 'konferencja prasowa']
+tags = ['aktualnosci', 'dokumentacja', 'konferencja prasowa']
 aliases = ['/konferencje/2024-06-06_ryzyka_budowlane_konferencja/']
 +++
 

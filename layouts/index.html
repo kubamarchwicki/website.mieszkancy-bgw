@@ -25,8 +25,9 @@
     </div>
     <div>
         <h2>Aktualności i konferencje prasowe</h2>
-        {{ range (where .Site.Pages "Section" "aktualnosci") }}
-        {{ range .Pages }}
+
+        {{ range where .Site.Pages "Section" "aktualnosci" }}
+        {{ range where .Pages ".Params.unlisted" "!=" "true" }}
         {{ .Date | time.Format ":date_long" }} <a href="{{ .Permalink }}">{{ .Title }}</a>
         <p>{{ .Summary }}</p>
         {{ end }}

@@ -24,20 +24,21 @@
         <pre>{{ debug.Dump .Site.AllPages }}</pre> */}}
     </div>
     <div>
-        <h2>Kalendarium i historia projektu</h2>
-        {{ range (where .Site.Pages "Section" "kalendarium") }}
-            {{ range .Pages }}
-                {{ .Date | time.Format ":date_long" }} <a href="{{ .Permalink }}">{{ .Title | humanize }}</a>
-                <p>{{ .Summary }}</p>
-            {{ end }}
+        <h2>Aktualności i konferencje prasowe</h2>
+        {{ range (where .Site.Pages "Section" "aktualnosci") }}
+        {{ range .Pages }}
+        {{ .Date | time.Format ":date_long" }} <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <p>{{ .Summary }}</p>
         {{ end }}
-        {{/*  <pre>{{ debug.Dump .Site.AllPages }}</pre>  */}}
+        {{ end }}
+        {{/*
+        <pre>{{ debug.Dump .Site.AllPages }}</pre> */}}
     </div>
     <div>
-        <h2>Konferencje prasowe</h2>
-        {{ range (where .Site.Pages "Section" "konferencje") }}
+        <h2>Kalendarium i historia projektu</h2>
+        {{ range (where .Site.Pages "Section" "kalendarium") }}
         {{ range .Pages }}
-        {{ .Date | time.Format ":date_long" }} <a href="{{ .Permalink }}">{{ .Title | humanize }}</a>
+        {{ .Date | time.Format ":date_long" }} <a href="{{ .Permalink }}">{{ .Title }}</a>
         <p>{{ .Summary }}</p>
         {{ end }}
         {{ end }}

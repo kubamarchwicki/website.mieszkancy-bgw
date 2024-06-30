@@ -3,7 +3,7 @@ title = '... o nieudostępnianej dokumentacji - konferencja prasowa'
 date = '2024-05-14'
 draft = false
 tags = ['aktualnosci', 'dokumentacja', 'wideo', 'konferencja prasowa']
-aliases = ['konferencje/2024-05-14_konferencja_prasowa/']
+aliases = ['/konferencje/2024-05-14_konferencja_prasowa/']
 +++
 
 Zorganizowaliśmy konferencję prasową o tym jak miasto utrudnia nam dostęp do dokumentacji projektu tramwaju na ulicy Bohaterów Getta Warszawskiego

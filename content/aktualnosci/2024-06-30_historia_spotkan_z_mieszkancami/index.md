@@ -16,6 +16,7 @@ Miasto regularnie powołuje się na
  - głos mieszkańców o uniknięciu wyburzenia historycznej tkanki (pięciu kamienic przy ulicy Do Studzienki: 4,5,6, 18/20 i 24) - w ramach konsultacji innego rejonu Gdańska w 2015 roku. 
 
 Niemniej jednak, spotkanie te albo nie dotyczyły rzeczonej inwestycji (trasy Nowa Politechniczna), albo nie były konsultacjami społecznymi w myśl uchwały Rady Miasta Gdańska (Uchwała Rady Miasta Gdańska nr XVI/494/15, z dnia 26 listopada 2016r. w sprawie określenia zasad i trybu przeprowadzania konsultacji społecznych z mieszkańcami miasta Gdańska - [treść uchwały PDF](Uchwala-Nr-XVI-494-15-Rady-Miasta-Gdanska.pdf)), tzn. nie spełniały przynajmniej części z wymagań narzuconych przez uchwałę. To znaczy (między innymi):
+ - miasto w żaden sposób nie odniosło się do uwag i postulatów mieszkańców, 
  - nie został sporządzony raport podsumowujący, zawierający informacje o sposobie ustosunkowania się Prezydenta do opinii Mieszkańców, w szczególności:
     - opiniach uwzględnionych, rozstrzygnięciach lub rekomendowanych kierunkach działań,
     - kwestiach wymagających dalszych uzgodnień,

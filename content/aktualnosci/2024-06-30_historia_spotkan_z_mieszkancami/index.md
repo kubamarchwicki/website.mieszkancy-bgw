@@ -3,7 +3,6 @@ title = '... o historii "spotkań informacyjnych" w sprawie tzw. Nowej Politechn
 date = '2024-06-30'
 draft = false
 tags = ['aktualnosci']
-unlisted = true
 +++
 
 Miasto przez cały czas trwania projektu nie przeprowadziło konsultacji społecznych odnośnie przebiegu trasy, natomiast regularnie podciągając inne projekty jako konsultacje społeczne trasy Gdańsk Południe - Wrzeszcz, nagina tym samym fakty. 

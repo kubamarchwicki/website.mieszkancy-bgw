@@ -31,6 +31,8 @@ outputs:
     - JSON # necessary for search       
 
 params:
+  cover:
+    image: img/social/bgw-opengraph.jpg
   typedtext: <div><p><b>Nasza ulica to zabytkowe kamienice</b>, z przełomu XIX i XX wieku, posadowione na palach.<br><br>Od 8 lat <b>władze Gdańska próbują przeforsować najmniej korzystny wariant</b> trasy tramwajowej, który <b>budzi protesty społeczne w większości dzielnic oraz grozi katastrofą budowlaną</b><br></p><p>Wariant przejazdu, który <b>uzyskał wyższą ocenę</b> w raporcie środowiskowym <b>został wycofany w 2019r. przez władze Gdańska ze względów pozamerytorycznych</b>.<br><br /><b>Oczekujemy realnych konsultacji społecznych i dialogu.</b><br /><br/>O to Archiwum naszego Protestu!<br/><small><i>~ Mieszkańcy Boh. Getta Warszawskiego</i></small></p></div>
   coverFrontGallery: [
     '/galeria/slide_front_1225.webp',

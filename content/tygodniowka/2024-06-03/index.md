@@ -1,5 +1,5 @@
 +++
-title = 'Tygodniówka tramwajowa'
+title = 'Tygodniówka tramwajowa - 3 czerwca'
 date = '2024-06-03'
 draft = false
 tags = ['tygodniówka']

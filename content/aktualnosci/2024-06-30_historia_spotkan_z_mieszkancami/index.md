@@ -22,10 +22,15 @@ Niemniej jednak, spotkanie te albo nie dotyczyły rzeczonej inwestycji (trasy No
     - opiniach nieuwzględnionych.
  - raport nie został opublikowany na stronach internetowych Urzędu Miejskiego
 
+| Aktualizacje |
+| ---------- | ----------- |
+| 14.07.2024 | Informacje z aneksu do Aktualizacji SPT - pozytywnie oceniające pominięte przez miasto warianty. Informacje prasowe na temat odrzucenia przez DRMG koreferatu |
+
 ---
 
+## Warsztaty organizowane przez Biuro Architekta Miasta
+
 Jedno ze spotkań na które powołuje się miasto - przedstawiając je jako konsultacje społeczne - to warsztaty organizowane przez Biuro Architekta Miasta, dotyczące "nowych przestrzeni Do Studzienki". Spotkania odbywały się w dniach:
-* 27 czerwca 2022 roku w budynku UM w Gdańsku
 * 29 września 2022 w Budynku Hydromechaniki PG
 * 24 października 2022 w Budynku Hydromechaniki PG
 * 7 listopada 2022 w Budynku Hydromechaniki PG
@@ -41,6 +46,8 @@ oraz informacji harmonogramowych
 * [raport z przeprowadzonych spotkań - PDF](BAM_dostudzienki_raport.pdf)
 
 ---
+
+## Spotkania informacyjne dla mieszkańców
 
 Kolejne spotkania to spotkania informacyjne organizowane przez Biuro Rozwoju Miasta Gdańska, Dyrekcję Rozbudowy Miasta Gdańska oraz spółkę Mosty Katowice. Nie były konsultacjami, a spotkaniami informacyjnymi - wedle słów organizatorów podczas spotkania.
 * https://youtu.be/PpE1Ti2414A?feature=shared&t=255 - spotkanie informacyjne Szkoła Rzemiosł, 2016-04-05, minuta 04:20
@@ -65,6 +72,8 @@ Nie były to konsultacje także ze względu na to że uwagi mieszkańców nie by
 
 ---
 
+## Manipulacje głosem mieszkańców
+
 Spotkania podczas których pojawiały się głosy mieszkańców dotyczące zachowania historycznej zabudowy ulicy Do Studzienki (wedle słów wiceprezydenta Piotra Grzelaka podczas absolutoryjnej sesji Rady Miasta Gdańska 20 czerwca 2024 roku - https://youtu.be/YZLNpcAQbGc?feature=shared&t=2120, minuta 35:25 nagrania) dotyczyły innej kwestii; w 2015 roku Biuro Rozwoju Gdańska konsultowało Strategiczny Program Transportowy dla Dzielnicy Południe w Mieście Gdańsku ([pełna treść dokumentu - PDF](Aktualizacja__SPT.pdf)). Były to konsultacje odnośnie zupełnie innej trasy niż linia tramwajowa przez ulicę Bohaterów Getta Warszawskiego. To propozycja trasy drogowo-tramwajowej, o przekroju 2x2 poprzez przygotowaną rezerwę terenową (MPZP 0808), wzbudziła sprzeciw mieszkańców. Wykorzystanie wyrwanych z kontekstu wypowiedzi mieszkańców o zachowaniu jednej części miasta, po to aby narażać pobliską okolicę na ryzyko katastrofy budowlanej - jest przejawem głębokiego cynizmu.
 
 Do Strategicznego Projektu Transportowego mieszkańcy zgłaszali uwagi, także na temat wyburzeń przy ulicy Do Studzienki:
@@ -84,10 +93,19 @@ Co więcej, miasto (komunikatami Biura Rozwoju Gdańska) samo przyznało, że is
 * [kompletna odpowiedź BRG na artykuły prasowe - PDF](2015.04_Biuro_Rozwoju_Gdansk_fb.pdf)
 * oryginał wiadomości: https://www.facebook.com/BiuroRozwojuGdanska/posts/854724301283066)
 
+Co ciekawe, wspomniany Strategiczny Program Transportowy, już w 2016 roku stwierdzał że tzw. **wariant filetowy 2 "Od ulicy Fiszera trasa biegnie korytarzem wzdłuż istniejącej ulicy Do StudzienkiBudowa kończy się na skrzyżowaniu z Aleją Grunwaldzką." jest korzystniejszy** (i zdobył więcej punktów niż proponowany wariant przez ulicę Bohaterów Getta Warszawskiego).
+* [aneks do aktualizacji SPT, strona 14](Aktualizacja__SPT-aneks.pdf). 
+  
 ---
 
-Jako taka konsultacje w 2015 roku dotyczyły zupełnie innej trasy, wykorzystywanie głosu mieszkańców w stosunku do prowadzenia linii tramwajowej ulicą Bohaterów Getta Warszawskiego jest manipulacją władz Gdańska. W szczególności w momencie rezygnacji budowy drogi o przekroju 2x2 (wspomniana wypowiedź wiceprezydenta Grzelaka podczas absolutoryjnej sesji Rady Miasta Gdańska w dniu 20 czerwca 2024). 
-Nie można z kontekstu historycznego wybierać jednego elementu (głosy o braku wyburzeń) i ignorować inne, pojawiające się w owym czasie. Na przykład o możliwości przeprowadzenia trasy tramwajowej poprzez ulicę Do Studzienki, tak jako została ona ukazana na wizualizacjach (na zlecenia Miasta Gdańsk) przez Forum Rozwoju Aglomeracji Gdańskiej (FRAG) - [źródłowy artykuł na urbnews](https://urbnews.pl/gdansk-jaka-bedzie-nowa-politechniczna/amp/), [lokalna kopia PDF](Gdansk_jaka_bedzie_nowa_politechniczna-urbnews.pl.pdf). Nie można posługiwać się głosem mieszkańców, ignorując przygotowany przez naukowców Politechniki Gdańskiej koreferat (zobacz: [artykuł na temat koreferatu](/kalendarium/2016-07-01_koreferat_politechniki_gdanskiej/)). 
+## Manipulacje głosem naukowców
+
+Jako takie, konsultacje w 2015 roku dotyczyły zupełnie innej trasy, wykorzystywanie głosu mieszkańców w stosunku do prowadzenia linii tramwajowej ulicą Bohaterów Getta Warszawskiego jest manipulacją władz Gdańska. W szczególności w momencie rezygnacji budowy drogi o przekroju 2x2 (wspomniana wypowiedź wiceprezydenta Grzelaka podczas absolutoryjnej sesji Rady Miasta Gdańska w dniu 20 czerwca 2024). 
+Nie można z kontekstu historycznego wybierać jednego elementu (głosy o braku wyburzeń) i ignorować inne, pojawiające się w owym czasie. Na przykład o możliwości przeprowadzenia trasy tramwajowej poprzez ulicę Do Studzienki, tak jako została ona ukazana na wizualizacjach (na zlecenia Miasta Gdańsk) przez Forum Rozwoju Aglomeracji Gdańskiej (FRAG) - [źródłowy artykuł na urbnews](https://urbnews.pl/gdansk-jaka-bedzie-nowa-politechniczna/amp/), [lokalna kopia PDF - dostęp 30.06.2024](Gdansk_jaka_bedzie_nowa_politechniczna-urbnews.pl.pdf). Nie można posługiwać się głosem mieszkańców, ignorując przygotowany przez naukowców Politechniki Gdańskiej koreferat (zobacz: [artykuł na temat koreferatu](/kalendarium/2016-07-01_koreferat_politechniki_gdanskiej/)). 
+
+Zaskoczenie ignorowaniem konsensusu naukowego wyrażali nie tylko mieszkańcy, ale też eksperci i dziennikarze:
+>  Miasto nie zgadza się z ustaleniami naukowców. Po pierwsze, jak wskazuje Dyrekcja Rozbudowy Miasta Gdańska (DRMG), rozdział poświęcony doborze wag dla kryteriów wyboru jest autorską propozycją i nie odpowiada zamówieniu. Ponadto rozdział z podsumowaniami i wnioskami dot. wstępnej oceny wielokryterialnej uznano za niewiarygodny. Jak podkreśla DRMG, naukowcy nie uwzględnili pełnych skutków wprowadzenia tramwaju w skrzyżowanie ul. Do Studzienki, Grunwaldzkiej i Miszewskiego (tzw. wariant czerwony zachodni – czerwony wschodni). Zdaniem miasta zmiana natężenia ruchu niesie skutki dla sporego obszaru Wrzeszcza pod względem ekonomicznym, bezpieczeństwa ruchu, środowiskowym i społecznym. Ich uwzględnienie, według Dyrekcji, obniżyłoby ocenę wariantu „czerwony – czerwony”. 
+* [źródłowy artykuł na urbnews](https://www.transport-publiczny.pl/wiadomosci/gdansk-pyta-naukowcow-o-tramwaj-a-potem-nie-zgadza-sie-z-nimi-52654.html), [lokalna kopia PDF - dostęp 14.07.2024](transport_publiczny-odpowiedz_koreferat.pdf)
 
 Niestety ani ówczesne wizualizacje FRAG, ani koreferat, nie były korzystne dla miasta (DRMG) ani dla autorów analizy (Mosty Katowice) - co miasto starało się ukryć przed mieszkańcami. 
 > W sytuacji istniejacego konfliktu z lokalna społecznością mieszkańców ul. Bohaterów Getta Warszawskiego, zdaniem Zamawiającego nie nalezy autorskiej analizy wielokryterialnej wariantów dokonanej przez zespół Politechniki Gdańskiej, która jak wskazano powyżej nie odzwierciedla faktycznych skutków na znaczny obszar Wrzeszcza, wprowadzenia tramwaju przez skrzyżowanie Do Studzienki - al. Grunwaldzka - Miszewskiego zamieszczać w dokumencie o charakterze publicznie dostępnym, jakim stanie się przedmiotowy koreferat po jego ostatecznym odbiorze przez Zamawiającego.

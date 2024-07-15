@@ -17,12 +17,15 @@ menu:
         - name: Aktualności
           url: aktualnosci/
           weight: 5
-        - name: Tygodniówka
-          url: tygodniowka/
-          weight: 10
         - name: Kalendarium
           url: kalendarium/
           weight: 10
+        - name: Tygodniówka
+          url: tygodniowka/
+          weight: 20          
+        - name: Video
+          url: video/
+          weight: 8
 
 outputs:
   home:

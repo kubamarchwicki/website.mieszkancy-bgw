@@ -51,11 +51,16 @@
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "home_info.html" . }}
 {{- end }}-->
-		{{ if and .IsHome }}
+{{ if and .IsHome }}
 		{{- partialCached "manifest-front.html" . .Page -}}
-		{{- partialCached "movie-front.html" . .Page -}}
+
+        <article class="free-entry b-1">
+        {{ range first 1 (where site.RegularPages "Section" "video") }}
+            {{ .Content }}
+        {{ end }}
+        </article>
 		
-		<center><h2 class="bigger-h2 b-1">Najnowsze artykuły</h2></center>
+<center><h2 class="bigger-h2 b-1">Najnowsze artykuły</h2></center>
 
 {{ end }}
 {{- $term := .Data.Term }}

@@ -14,6 +14,7 @@ Reakcje prasowe na naszą konferencję:
 * trojmiasto.pl: https://www.trojmiasto.pl/wiadomosci/Tramwaj-zniszczy-kamienice-n190043.html
 * Zawsze Pomorze: https://www.zawszepomorze.pl/artykul/14074,protest-na-bohaterow-getta-warszawskiego-w-gdansku-chcemy-usiasc-do-rozmow
 * Radio Gdańsk: https://radiogdansk.pl/wiadomosci/region/trojmiasto/2024/06/06/czesc-mieszkancow-gdanska-nie-chce-nowej-linii-tramwajowej-protest-trwa-posluchaj/
+* wybrzeze24.pl: https://wybrzeze24.pl/aktualnosci/granda-we-wrzeszczu
 * TVP3 - Forum Panoramy: https://gdansk.tvp.pl/77934571/06062024 (dyskusja z Dyrektorem DRMG - Krzysztofem Małkowskim)
 * TVP3 - felieton filmowy: https://gdansk.tvp.pl/77936495/tramwaj-zwany-niepozadaniem
 

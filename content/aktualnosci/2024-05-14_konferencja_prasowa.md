@@ -15,6 +15,7 @@ Poniżej reakcje dziennikarzy na nasz protest:
 * Panorama TVP3: https://gdansk.tvp.pl/668442/panorama
 * Radio Gdańsk: https://radiogdansk.pl/wiadomosci/region/trojmiasto/2024/05/14/bohaterow-getta-warszawskiego-protest/
 * Wyborcza Trójmiasto: https://trojmiasto.wyborcza.pl/trojmiasto/7,35612,30969813,nie-chca-linii-tramwajowej-pod-oknami-i-maja-ku-temu-nowe-argumenty.html
+* wybrzeze24.pl: https://wybrzeze24.pl/aktualnosci/nie-dla-slalomu-tramwajowego
 * Trójmiasto.pl: https://www.trojmiasto.pl/wiadomosci/Protest-na-ul-Bohaterow-Getta-Warszawskiego-Co-dalej-z-linia-Gdansk-Poludnie-Wrzeszcz-n189275.html 
 * Dziennik Bałtycki: https://dziennikbaltycki.pl/na-bohaterow-getta-warszawskiego-znow-protestuja-przeciw-budowie-trasy-tramwajowej/ar/c1-18532621 
 * Zawsze Pomorze: https://www.zawszepomorze.pl/artykul/13713,gdansk-znowu-wrze-wokol-tramwaju-przez-ul-bohaterow-getta-warszawskiego

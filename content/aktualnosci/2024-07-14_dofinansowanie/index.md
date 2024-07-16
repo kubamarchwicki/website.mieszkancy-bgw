@@ -5,11 +5,15 @@ draft = false
 tags = ['aktualnosci']
 +++
 
-28 czerwca 2024 Miasto Gdańsk złożyło wniosek o dofinansowanie projektu linii tramwajowej przez ul. Bohaterów Getta Warszawskiego. Miasto oceniło wartość projektu na 800 mln złotych i wystąpiło o 260 mln złotych dofinansowania z programu Feniks.
-
-To jest czterokrotnie więcej niż pierwotne szacunki (207 mln złotych), przeszło dwukrotnie więcej przyjmując GUSowy wskaźnik wzrostu kosztów (372 mln złotych: 207mln + 80%).
+Gdy miasto przedstawiło nowe szacunki kosztów budowy trasy GPW, potwierdziły się kolejne nasze obawy co do wariantu przez ul. Bohaterów Getta. Oprócz tego, że jest ona niebezpieczna dla zabytkowych kamienic, powolna i prowadzona na około, to jest jeszcze bardzo droga. Szacunkowe koszty, na podstawie których wskazano ten wariant jako najtańszy spośród kilku innych oceniach okazały się kolejnym oszustwem władz miasta. Budowa wariantu którą oszacowano w 2016 r. na 207 mln zł obecnie miałaby kosztować prawie 4 razy tyle. Uwzględniając wzrost cen w tym okresie, który szacuje się od 70 do 90%, wychodzi na to, że inwestycja i tak kosztuje dwukrotnie więcej niż planowano. To wynik m.in. dodania na etapie projektu nowych bardzo kosztownych elementów do projektu takich jak podziemny zbiornik retencyjny, którego wcześniej nie przewidywano. TO wszystko wskazuje, że o ile chcemy tą inwestycje ykonać dobrze musimy cofnąć się do etapu wyboru wariantu. Ale miasto tego nie chce zrobić.
 
 <!--more-->
+
+Planuje za to powołać Radę naukową projektu w momencie, gdy odebrany zostanie projekt wykonawczy i wszystkie kluczowe decyzje zostały już nie tylko podjęte alei zrealizowane.
+
+Nie sposób nie podejrzewać, że tego typu "rada" będzie miała za zadanie zbijanie argumentów mieszkańców protestujących przeciwko budowie trasy przez ul. BGW i wspieranie akcji promocyjnej projektu. Kto wie, może nawet będzie finansowane ze środkó na promocję tramwaju przez Bohaterów Getta? W najlepszym razie eksperci zostaną postawieni przez włądze miasta przed faktem dokonanym, gdy nie będą mogli już zmianić kluczowych dla projektu decyzji. Dotychczasowe kontakty władz z niezależnymi ekspertami kończyły się ignorowaniem ich krytycznych opinii jak było w przypadku Koreferatu ekspertów z Politechniki Gdańskiej pod kierownictwem prom. Kazimierza Jamroza.
+
+Władze miasta wiedzą doskonale że popełniły błąd lub dokonały świadomie złego wyboru, jednak brną dalej.
 
 **Uświetniliśmy to spotkanie swoją obecnością**
 ![Uświetniliśmy to spotkanie swoją obecnością](grzelak_briefing_protest.webp)
@@ -17,8 +21,6 @@ To jest czterokrotnie więcej niż pierwotne szacunki (207 mln złotych), przesz
 **Postanowiliśmy też na tą okoliczność nagrać film**
 
 {{< youtube zNaKuaytTOs >}}
-
----
 
 **Natomiast w telegraficznym skrócie kilka faktów**
 * Trasa w przebiegu planowanym przez miasto ma kosztować 800 mln złotych.

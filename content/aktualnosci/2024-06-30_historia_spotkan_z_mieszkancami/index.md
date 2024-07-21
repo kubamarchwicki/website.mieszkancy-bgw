@@ -25,6 +25,7 @@ Niemniej jednak, spotkanie te albo nie dotyczyły rzeczonej inwestycji (trasy No
 | Aktualizacje |
 | ---------- | ----------- |
 | 14.07.2024 | Informacje z aneksu do Aktualizacji SPT - pozytywnie oceniające pominięte przez miasto warianty. Informacje prasowe na temat odrzucenia przez DRMG koreferatu |
+| 21.07.2024 | Dodanie informacji o konsultacjach dot. Studium uwarunkowań i kierunków zagospodarowania przestrzennego, na które miasto stara się powoływać |
 
 ---
 
@@ -96,6 +97,28 @@ Co więcej, miasto (komunikatami Biura Rozwoju Gdańska) samo przyznało, że is
 Co ciekawe, wspomniany Strategiczny Program Transportowy, już w 2016 roku stwierdzał że tzw. **wariant filetowy 2 "Od ulicy Fiszera trasa biegnie korytarzem wzdłuż istniejącej ulicy Do StudzienkiBudowa kończy się na skrzyżowaniu z Aleją Grunwaldzką." jest korzystniejszy** (i zdobył więcej punktów niż proponowany wariant przez ulicę Bohaterów Getta Warszawskiego).
 * [aneks do aktualizacji SPT, strona 14](Aktualizacja__SPT-aneks.pdf). 
   
+---
+
+## Studium uwarunkowań i kierunków zagospodarowania przestrzennego
+
+Miasto Gdańsk próbuje także sprowadzać uzasadnienie wszystkich projektowanych linii tramwajowych do jednych, ogólnych konsultacji nad Studium uwarunkowań i kierunków zagospodarowania przestrzennego w 2018 roku. Mimo, że wiceprezydent Grzelak przywołuje inny dokument, słowami: Gdańsk Południe - Wrzeszcz i tramwaj w Klonowej to są dwa elementy (tej samej inwestycji), którego przebieg był konsultowany w ramach tych samych konsultacji które odbywały się w ramach Gdańsk Południe - Wrzeszcz i one odbywały się od 2015 roku (wiceprezydent Piotr Grzelak podczas absolutoryjnej sesji Rady Miasta Gdańska 20 czerwca 2024 roku - https://youtu.be/YZLNpcAQbGc?feature=shared&t=2082, minuta 34:40 nagrania)
+
+Jest to wypowiedź na tyle nieprecyzyjna (wspomniane wcześniej konsultacje Strategicznego programu transportowego dzielnicy Południe odrzucają informacje np. o ulicy Klonowej), we Dyrekcja Rozbudowy Miasta Gdańska musiała prostować słowa wiceprezydenta. 
+
+> (...) odnosząc się do wypowiedzi wiceprezydenta Piotra Grzelaka, z sesji rady miasta (z dnia 20.06.24 r.), dot. konsultacji na temat przebiegu linii tramwajowej przez ul. Klonową, uprzejmie informujemy, że w szczególności chodziło tu o działania partycypacyjne dotyczące Studium uwarunkowań i kierunków zagospodarowania przestrzennego, które przechodziło przez proces konsultacji społecznych. Wyłożenie projektu Studium, trwało od 23 października do 21 listopada 2017, natomiast uwagi można było składać od 23 października do 12 grudnia 2017 roku. Jako, że DRMG nie organizowało spotkań dot. Studium, szczegóły na temat można uzyskać w Biurze Rozwoju Gdańska. Ponadto podczas wspomnianych przez Pana spotkań, dotyczących przebiegu trasy Gdańsk Południe- Wrzeszcz w roku 2016, również mówiono o koncepcji tramwaju przez ul. Klonową, jako niezbędnym elemencie trasy GPW, planowanym do realizacji w kolejnych etapach.
+* [odpowiedź DRMG na pismo](20240708-konsultacje_klonowa.pdf)
+
+Wspomniane przez DRMG studium (SUiKZ) nie definiuje w żaden sposób wariantów trasy GPW, uciekając od jakichkolwiek konkretów:
+> Przewiduje się dalszy rozwój układu linii tramwajowych w dzielnicy Południe w ramach: Nowej Bulońskiej Północnej i Południowej, Nowej Warszawskiej i Nowej Świętokrzyskiej. Realizacja planowanego połączenia tramwajowego pod nazwą Gdańsk Południe Wrzeszcz (GPW), prowadzonego ulicami: Nowa Bulońska Północna, Bulońska, Rakoczego, Jaśkowa Dolina, Wileńska, i dalej w kierunku dolnego tarasu rezerwą tzw. Nowej Politechnicznej, zapewni mieszkańcom południowych dzielnic sprawny dojazd transportem zbiorowym do ośrodków akademickich, miejsc pracy i handlu zlokalizowanych we Wrzeszczu i Oliwie, z ominięciem Śródmieścia. Na końcowym odcinku tej trasy (w okolicach skrzyżowania z al. Grunwaldzką) dopuszcza się prowadzenie tramwaju zarówno wzdłuż ul. Do Studzienki w dotychczasowym korytarzu ul. Nowej Politechnicznej, jak i alternatywnie w korytarzu ul. Fiszera i Bohaterów Getta Warszawskiego (strona 262 studium)
+* [Studium uwarunkowań i kierunków zagospodarowania przestrzennego](STUDIUM_zalacznik_uchwaly.pdf)
+
+Co później zostało potwierdzone podczas odnoszenia się do uwag mieszkańców:
+> Na zlecenie miasta powstała dokumentacja dotyczaca połączenia transportem zbiorowym dzielnicy Południe z Wrzeszczem, nazywana trasa GPW. W ramach dokumentacji przebadano 16 wariantów prowadzenia trasy tramwajowej - do wniosku o decyzje srodowiskowa wybrana została trasa wzdłuż ul. Jaśkowa Dolina, Wilenska, Nowa Politechniczna i alternatywnie ul. Bohaterów Getta Warszawskiego i ul. Do Studzienki, jako odpowiedź na bieżące zapotrzebowanie na przewozy transportem zbiorowym pomiedzy ww. dzielnicami miasta. W ramach wielokryterialnej analizy przebieg trasy tramwajowej w sladzie ul. Nowej Politechnicznej wskazywany byt jako wariant mozliwy do realizacji w dalszej perspektywie czasowej, jako element uzupełniający sie tramwajową (uwaga 82.30 - strona 68)
+* [Rozpatrzenie uwag wniesionych do projektu Studium uwarunkowan i kierunków zagospodarowania prestrzennego miasta Gdanska](rozpatrzenie-uwag-do-projektu-studium.pdf)
+
+W kontekście powyższego, można przyjąć że wycofanie Miasta Gdańska wniosku o decyzję środowiskową dla prowadzenia tramwaju wzdłuż ul. Do Studzienki w dotychczasowym korytarzu ul. Nowej Politechnicznej, a pozostawienie wariantu alternatywnego przez ulicę Bohaterów Getta Warszawskiego było działaniem wbrew własnemu studium, czyli wbrew własnego "aktowi kierownictwa wewnętrznego", czyli obowiązującego lokalne władze samorządowe. Decyzja została podjęta przez ówczesnego wiceprezydenta Alana Aleksandrowicza
+* [Decyzja o wycofaniu wariantu włączenia tramwaju w ulicę Grunwaldzką przez ul. Do Studzienki](2019-12-11_wycofanie_wniosku_srodowiskowego.pdf)
+
 ---
 
 ## Manipulacje głosem naukowców

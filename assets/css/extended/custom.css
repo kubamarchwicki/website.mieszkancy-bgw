@@ -222,3 +222,20 @@
         }
     }
     /* galeria na froncie */
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+.column {
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+@media (max-width: 1024px) {
+    .wrapper {
+        grid-template-columns: 1fr;
+    }
+}

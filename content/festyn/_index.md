@@ -17,6 +17,10 @@ Mamy w planach:
 
 **Muzycznie** wesprą nas lokalne kolektywy muzyczne **Sekatory** i **Wibrysy**, a do wieczora tanecznie będą przygrywać znajomi DJe. 
 
+{{< spotify track 44oldjLPbcMwl41tSOOwjb >}}
+
+{{< spotify track 5yA8rrZEz6LKjjU78ESxEf >}}
+
 Będzie coś do popicia i przekąszenia, może wata cukrowa, może coś z lokalnych zaprzyjaźnionych restauracji. 
 
 <---> <!-- magic separator, between columns -->

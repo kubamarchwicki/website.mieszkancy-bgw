@@ -1,10 +1,10 @@
 ---
 title: "Festyn na Bohaterów - 27 lipca 2024"
 ---
-
 {{< columns >}}
 
-Zaczynamy w sobotę, około godziny 16.
+Zaczynamy w sobotę, około godziny 16 👉 [Nasze wydarzenie na facebook'u](https://www.facebook.com/events/409180222158764/)
+
 
 Mamy w planach:
 **Żywą bibliotekę** - Książką w tej formie będą mieszkańcy, a czytelnikiem - goście. Będzie można zadać konkretne pytanie bez sięgania do spisu treści. 

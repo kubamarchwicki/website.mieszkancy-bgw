@@ -3,6 +3,7 @@ languageCode: pl-PL
 title: Mieszkańcy BGW
 theme: ["hugo-embed-pdf-shortcode","PaperMod"]
 enableInlineShortcodes : true
+enableRobotsTXT: true
 languages:
   pl:
     languageCode: pl-PL

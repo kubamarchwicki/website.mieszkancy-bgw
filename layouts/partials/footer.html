@@ -1,20 +1,57 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
-    {{- if not site.Params.footer.hideCopyright }}
-        {{- if site.Copyright }}
-        <span>{{ site.Copyright | markdownify }}</span>
-        {{- else }}
-        <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <div class="footer-basic">
+        <ul class="list-inline">
+            <li class="list-inline-item"><a href="/">Strona główna</a></li>
+            {{- range site.Menus.main }}
+            {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
+            {{/*  {{- $page_url:= $currentPage.Permalink | absLangURL }}  */}}
+            {{/*  {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}  */}}
+            <li class="list-inline-item">
+                <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">
+                    <span>
+                        {{- .Pre }}
+                        {{- .Name -}}
+                        {{ .Post -}}
+                    </span>
+                    {{- if (findRE "://" .URL) }}&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                    {{- end }}
+                </a>
+            </li>
+            {{- end }}
+        </ul>
+        <div class="columns wrapper">
+            <div class="column">
+                <div class="ml-embedded" data-form="oNPydB"></div>
+            </div>
+            <div class="column social">
+                <a href="https://www.facebook.com/DolinaKrolewska" target="_blank"><i class="icon ion-social-facebook"></i></a>
+                <a href="https://www.youtube.com/@BGWGdansk" target="_blank"><i class="icon ion-social-youtube"></i></a>
+            </div>
+        </div>
+
+        {{- if not site.Params.footer.hideCopyright }}
+            {{- if site.Copyright }}
+            <span>{{ site.Copyright | markdownify }}</span>
+            {{- else }}
+            <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+            {{- end }}
+        
         {{- end }}
-       
-    {{- end }}
 
-    {{- with site.Params.footer.text }}
-        {{ . | markdownify }}
-    
-    {{- end }}
+        {{- with site.Params.footer.text }}
+            {{ . | markdownify }}
+        
+        {{- end }}
 
-  
+    </div>
 </footer>
 {{- end }}
 

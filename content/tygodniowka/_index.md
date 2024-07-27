@@ -6,4 +6,4 @@ draft = false
 
 Co jakiś czas wysyłamy aktualny status: gdzie jesteśmy, co zrobiliśmy, co planujemy w najbliższym czasie. Poniżej archiwum ostatnich "tramwajówek" - czyli naszego newslettera.
 
-{{< freshmail >}}
+{{< freshmail XlHxBa >}}

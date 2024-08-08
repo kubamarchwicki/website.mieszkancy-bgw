@@ -1,5 +1,5 @@
 +++
-title = 'Sprostowanie do wywiadu z Pawełem Mrozekiem w Gazecie Wyborczek'
+title = 'Sprostowanie do wywiadu z Pawłem Mrozkiem w Gazecie Wyborczej'
 date = '2024-07-19'
 draft = false
 tags = ['aktualnosci']

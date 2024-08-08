@@ -1,6 +1,6 @@
 +++
-title = '"Tygodniówka" tramwajowa - 23 lipca'
-date = '2024-07-18'
+title = '"Tygodniówka" festynowa - 23 lipca'
+date = '2024-07-23'
 draft = false
 tags = ['tygodniówka']
 +++

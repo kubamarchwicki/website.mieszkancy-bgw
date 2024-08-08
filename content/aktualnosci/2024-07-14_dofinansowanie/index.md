@@ -20,7 +20,7 @@ Władze miasta wiedzą doskonale że popełniły błąd lub dokonały świadomie
 
 **Postanowiliśmy też na tą okoliczność nagrać film**
 
-{{< youtube zNaKuaytTOs >}}
+{{< youtube id="zNaKuaytTOs" >}}
 
 **Natomiast w telegraficznym skrócie kilka faktów**
 * Trasa w przebiegu planowanym przez miasto ma kosztować 800 mln złotych.

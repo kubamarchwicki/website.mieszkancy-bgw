@@ -12,7 +12,7 @@ Zabraliśmy głos podczas absolutoryjnej sesji Rady Miasta Gdańsk. Michał Bła
 
 Skrócony zapis sesji, zawierający wypowiedzi mieszkańców BGW (Jakub Marchwicki i Michał Bałut) oraz poruszający kwestie Manhattanu (Agnieszka Wąsowska - Telęga), a także odpowiedzi prezydentów (Dulkiewicz i Grzelak) na poruszone kwestie. 
 
-{{< youtube YZLNpcAQbGc >}}
+{{< youtube id="YZLNpcAQbGc" >}}
 
 ## Michał Błaut
 

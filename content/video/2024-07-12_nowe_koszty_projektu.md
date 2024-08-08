@@ -5,6 +5,6 @@ draft = false
 tags = ['wideo']
 +++
 
-{{< youtube zNaKuaytTOs >}}
+{{< youtube id="zNaKuaytTOs" >}}
 
 

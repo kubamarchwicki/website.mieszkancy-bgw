@@ -94,7 +94,7 @@ Co więcej, miasto (komunikatami Biura Rozwoju Gdańska) samo przyznało, że is
 * [kompletna odpowiedź BRG na artykuły prasowe - PDF](2015.04_Biuro_Rozwoju_Gdansk_fb.pdf)
 * oryginał wiadomości: https://www.facebook.com/BiuroRozwojuGdanska/posts/854724301283066)
 
-Co ciekawe, wspomniany Strategiczny Program Transportowy, już w 2016 roku stwierdzał że tzw. **wariant filetowy 2 "Od ulicy Fiszera trasa biegnie korytarzem wzdłuż istniejącej ulicy Do StudzienkiBudowa kończy się na skrzyżowaniu z Aleją Grunwaldzką." jest korzystniejszy** (i zdobył więcej punktów niż proponowany wariant przez ulicę Bohaterów Getta Warszawskiego).
+Co ciekawe, wspomniany Strategiczny Program Transportowy, już w 2016 roku stwierdzał że tzw. **wariant filetowy 2 "Od ulicy Fiszera trasa biegnie korytarzem wzdłuż istniejącej ulicy Do Studzienki. Budowa kończy się na skrzyżowaniu z Aleją Grunwaldzką." jest korzystniejszy** (i zdobył więcej punktów niż proponowany wariant przez ulicę Bohaterów Getta Warszawskiego).
 * [aneks do aktualizacji SPT, strona 14](Aktualizacja__SPT-aneks.pdf). 
   
 ---

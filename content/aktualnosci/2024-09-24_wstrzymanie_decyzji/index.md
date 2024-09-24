@@ -80,11 +80,3 @@ W obu przypadkach uważamy, że aktualna opinia powinna zostać wycofana. Zwraca
 ## Apel do prezydent Aleksandry Dulkiewicz
 
 Chcielibyśmy po raz kolejny zwrócić się do Pani Prezydent Aleksandry Dulkiewicz o podjęcie dialogu z mieszkańcami. Chcemy rozmawiać bez zasłaniania się różnego typu pośrednikami, których kompetencje nie są wystarczające do podjęcia zasadniczej kwestii, czyli powrotu do wyboru wariantu trasy. Z każdym miesiącem widać coraz wyraźniej, że wybrany wariant jest mówiąc delikatnie niewłaściwy. Jest najdroższy, niekonkurencyjny, niebezpieczny, powolny i stwarza zagrożenie dla otoczenia. Jest już późno, ale być może nie za późno, żeby tą inwestycję przeprowadzić w sposób lepszy dla użytkowników i akceptowalny dla mieszkańców dzielnic, przez które tramwaje miałyby pojechać. Pani Aleksandro – naprawdę warto współpracować a nie walczyć z mieszkańcami w kwestiach ważnych. Udział społeczny, konsultacje to w Europie wymagania traktowane serio, a nie wyłącznie strategia marketingowa i budowa wizerunku. To znamienne, że tak ważna i kosztowna inwestycja jak trasa tramwajowa GPW nadal nie została skonsultowana społecznie. Czas to zmienić. 
-
-**Jakub Marchwicki**
-tel 607 183 320
-
-**Michał Błaut**
-tel 793 386 175
-
-https://mieszkancybgw.pl/aktualnosci/2024-09-24_wstrzymanie_decyzji/

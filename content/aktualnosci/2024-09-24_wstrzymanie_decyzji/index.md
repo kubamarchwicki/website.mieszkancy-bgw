@@ -14,6 +14,7 @@ Reakcje prasowe na naszą konferencję:
 * Radio Gdańsk: https://radiogdansk.pl/wiadomosci/region/trojmiasto/2024/09/24/stowarzyszenie-z-wrzeszcza-wstrzymalo-miejskie-procedury-zwiazane-z-budowa-nowej-linii-tramwajowej/
 * Dziennik Bałtycki: https://dziennikbaltycki.pl/nie-bedzie-unijnej-kasy-na-tramwaj-przez-bohaterow-getta-warszawskiego-w-gdansku-wody-polskie-wstrzymaly-decyzje/ar/c4-18830057
 * RMF: https://www.rmf24.pl/regiony/trojmiasto/news-zaciagniety-hamulec-przy-budowie-trasy-tramwajowej-gdansk-po,nId,7822082#crp_state=1
+* Zawsze Pomorze: https://www.zawszepomorze.pl/artykul/15746,sprawa-tramwaju-przez-ul-bohaterow-getta-warszawskiego-punkt-dla-przeciwnikow-inwestycji
 * TVP3 - Panorama: https://gdansk.tvp.pl/82482762/24092024-1830 (od 12:30 minuty)
 
 ## Wygrana przed Sądem Administracyjnym

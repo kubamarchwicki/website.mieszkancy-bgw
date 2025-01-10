@@ -54,9 +54,9 @@
 {{ if and .IsHome }}
 		{{- partialCached "manifest-front.html" . .Page -}}
 
-        <article class="free-entry b-1">
+        <article class="free-entry b-1 entry-content">
         {{ range first 1 (where site.RegularPages "Section" "video") }}
-            {{ .Content }}
+            {{ .Content }}            
         {{ end }}
         </article>
 		

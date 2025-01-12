@@ -19,9 +19,12 @@ menu:
           weight: 5
         - name: Tygodniówka
           url: tygodniowka/
-          weight: 10
+          weight: 8
         - name: Kalendarium
           url: kalendarium/
+          weight: 8
+        - name: FAQ
+          url: faq/
           weight: 10
         - name: Wideo
           url: video/

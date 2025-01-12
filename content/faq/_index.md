@@ -1,5 +1,5 @@
 +++
-title = 'Najczęściej zadawany pytania'
+title = 'Najczęściej zadawane pytania'
 date = 2025-01-10T08:30:00-07:00
 draft = false
 +++

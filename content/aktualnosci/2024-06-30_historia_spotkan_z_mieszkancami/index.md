@@ -69,6 +69,7 @@ Spotkania odbywały się w wymienionych poniżej dniach. Załączone raporty ze 
 Nie były to konsultacje także ze względu na to że uwagi mieszkańców nie były zbieranie, nie udzielano odpowiedzi na pytania mieszkańców oraz uwagi mieszkańców nie były elementem raportu - nigdy nie zostały opracowane. Dyrekcja Rozbudowy Miasta Gdańska (organizująca spotkania), zapytana o pytania (o listę zgłoszonych uwag i opinii, wraz z odpowiedziami) mieszkańców odpowiedziała:
 > Realizacja wniosku wymaga ponadstandardowego nakładu pracy, wymagającej użycia dodatkowych sił i środków oraz zaangażowania intelektualnego w stosunku do posiadanych przez niego danych, a informacja wyodrębniana byłaby jedynie w związku z żądaniem wnioskodawcy oraz na podstawie kryteriów przez niego wskazanych, uznać należy, że żądana informacja jest informacją przygotowywaną "specjalnie" dla wnioskodawcy wedle wskazanych przez niego kryteriów, na podstawie pierwotnego zasobu danych, a więc informacją przetworzoną. 
 
+* [wniosek o informacje na temat spotkań](DRMG_raporty_ze_spotkan-wniosek.pdf)
 * [pełna odpowiedź DRMG na zapytanie o dostęp do informacji](DRMG_raporty_ze_spotkan.pdf)
 
 ---

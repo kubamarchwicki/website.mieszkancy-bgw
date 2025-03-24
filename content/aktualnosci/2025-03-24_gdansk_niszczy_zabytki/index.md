@@ -7,7 +7,7 @@ tags = ['aktualnosci']
     relative = true
 +++
 
-Budowa trasy tramwajowej Nowa Politechniczna (Gdańsk Południe-Wrzeszcz / GPW) wymaga od inwestora ingerencji w zabytkową tkanę miasta. Przedsmak tego co się może dziać mamy już dzisiaj, gdy miasto nielegalnie rozpoczyna prace mające na celu zniszczenie pozostałych elementów dworu w Dolinie Królewskiej.
+Budowa trasy tramwajowej Nowa Politechniczna (Gdańsk Południe-Wrzeszcz / GPW) wymaga od inwestora ingerencji w zabytkową tkankę miasta. Przedsmak tego co się może dziać mamy już dzisiaj, gdy miasto nielegalnie rozpoczyna prace mające na celu zniszczenie pozostałych elementów dworu w Dolinie Królewskiej.
 
 <!-- more -->
 
@@ -15,7 +15,7 @@ Nową trasę tramwajową Nowa Politechniczna (Gdańsk Południe-Wrzeszcz / GPW) 
 
 ## Gdzie to jest?
 
-Park Królewskiej Doliny znajdujący się pomiędzy ulicami Do Studzienki a Sobieskiego w Gdańsku zobacz na mapie Gdańska to niezwykłe miejsce, które tworzą wzgórza morenowe oraz malowniczy potok. Nazwę zawdzięcza wizycie króla Jana III Sobieskiego, który w 1677 r. przybył do Gdańska. Król był pod wrażeniem piękna parku, rezydencji i samej okolicy. Zażyczył sobie, by odtąd teren nazywać Królewską Doliną ([można przeczytać więcej na stronie trojmiasto.pl](https://www.trojmiasto.pl/historia/Niezwykla-historia-Krolewskiej-Doliny-w-Gdansku-n136349.html)).
+Park Królewskiej Doliny znajdujący się pomiędzy ulicami Do Studzienki a Sobieskiego w Gdańsku to niezwykłe miejsce, które tworzą wzgórza morenowe oraz malowniczy potok. Nazwę zawdzięcza wizycie króla Jana III Sobieskiego, który w 1677 r. przybył do Gdańska. Król był pod wrażeniem piękna parku, rezydencji i samej okolicy. Zażyczył sobie, by odtąd teren nazywać Królewską Doliną ([można przeczytać więcej na stronie trojmiasto.pl](https://www.trojmiasto.pl/historia/Niezwykla-historia-Krolewskiej-Doliny-w-Gdansku-n136349.html)).
 
 Do Parku prowadził wjazd aleją lipową od strony obecnej ul. Sobieskiego, kończący się masywną, piękną, murowaną bramą. Obecnie brama znajduje sie w katastrofalnym stanie. Do dzisiaj zachowała sie jedynie jedna jej cześć, lewa patrzac od ul. Sobieskiego. Stosunkowo niedawno, ten zabytkowy relikt został dodatkowo powaznie uszkodzony w zwiazku z pracami budowlanymi prowadzonymi nieopodal. Filar został obudowany deskami dla bezpieczenstwa i uniknięcia dalszej jego degradacji. Co istotne, do Bramy przylegaja pozostałosci ceglanego muru okalajacego pierwotnie cały teren parku.
 
@@ -39,7 +39,7 @@ We wrześniu 2024 roku, Towarzystwo Opieki nad Zabytkami (TOnZ) Oddział w Gdań
 
 Mimo trwania procedury wpisu zabytku do Rejestru Zabytków, DRMG trzykrotnie ogłosiła przetargi na wykonanie przesunięcia bramy: w czerwcu, sierpniu oraz w październiku 2024 r. Dwa pierwsze przetargi zostały unieważnione ze względu na cenę, która znacznie przewyższała kwotę, jaką Miasto przeznaczało na realizaję tego zamówienia. Trzecie przetarg zakończył się podpisaniem przez DRMG umowy z firmą Budomex Trójmiasto Sp. z o.o. Na przeniesienie bramy przeznaczono kwotę o 75% wyższą, niż pierwotnie zamierzano. DRMG podpisało umowę na kwotę 396 543 zł, podczas gdy kwota, która była pierwotnie przeznaczona na ten cel wynosiła 225 845 zł. 
 
-Co gorsza firma Budomex Trójmiasto sp z o.o. weszła na plac budowy 21 marca 2024, rozpoczynając pracę, dołączając do grona instytucji łamiących prawo dotyczące ochrony zabytków art. 10a ustawy o ochronie zabytków i opiece nad zabytkami, który mówi, że **od momentu wszczęcia postępowania o wpis, do czasu jego zakończenia, obiekt traktowany jest jak zabytek i podlega ochronie**. Samo wszczęcie procedury oznacza bowiem, że: **nie można go bez zgody konserwatora zniszczyć ani znacząco przekształcić** – wszelkie prace budowlane, rozbiórkowe czy zmiany zagospodarowania terenu mogą zostać wstrzymane. 
+Co gorsza firma Budomex Trójmiasto sp z o.o. weszła na plac budowy 21 marca 2025, rozpoczynając pracę, dołączając do grona instytucji łamiących prawo dotyczące ochrony zabytków art. 10a ustawy o ochronie zabytków i opiece nad zabytkami, który mówi, że **od momentu wszczęcia postępowania o wpis, do czasu jego zakończenia, obiekt traktowany jest jak zabytek i podlega ochronie**. Samo wszczęcie procedury oznacza bowiem, że: **nie można go bez zgody konserwatora zniszczyć ani znacząco przekształcić** – wszelkie prace budowlane, rozbiórkowe czy zmiany zagospodarowania terenu mogą zostać wstrzymane. 
 
 ---
 

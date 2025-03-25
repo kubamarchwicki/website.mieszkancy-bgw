@@ -43,6 +43,25 @@
   {{- end }}
 
   <footer class="post-footer">
+    {{ $pages := .CurrentSection.Pages.ByDate }}
+    
+    {{ with $pages.Prev . }}
+    <div class="next_in_section">
+        <a href="{{ .RelPermalink}}">Poprzedni artykuł: <b>{{- .Title }}</b></a>
+        <div class="entry-content">
+            <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+        </div>
+    </div>    {{ end }}
+    
+    {{ with $pages.Next . }}
+    <div class="next_in_section">
+        <a href="{{ .RelPermalink}}">Następny artykuł: <b>{{- .Title }}</b></a>
+        <div class="entry-content">
+            <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+        </div>
+    </div>
+    {{ end }}
+
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}

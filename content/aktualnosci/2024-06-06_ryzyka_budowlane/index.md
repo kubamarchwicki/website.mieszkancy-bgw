@@ -26,7 +26,7 @@ Zapoznaliśmy się ze znaczną częścią dokumentacji budowlanej, potrzebnej do
 
 ![Zakres wykopu](zasieg_wykopu.png)
 (pełna mapa: https://mieszkancybgw.pl/tygodniowka/2024-06-03/zasieg_wykopu.pdf) 
-(mapa uproszczona: https://mieszkancybgw.pl/tygodniowka/2024-06-03/zasieg_wykopu-uproszczony.pdf) 
+(mapa uproszczona: https://mieszkancybgw.pl/tygodniowka/2024-06-03/zasieg_wykopu.pdf) 
 
 Z czego wynika to zagrożenie? Okazuje się, że wraz z budową torowiska władze miasta zdecydowały się umieścić pod powierzchnią naszej ulicy podziemny zbiornik retencyjny, który ma zastąpić dotychczasowy znacznie węższy kanał ulgi Potoku Królewskiego. Do jego wykonania niezbędne jest z kolei wykonanie głębokich otwartych wykopów w bliskim sąsiedztwie naszych domów. Betonowe komory mają mieć wielkość prawie 6 na 2 metry.
 Tu trzeba dodać, że władze miasta starając się o decyzję środowiskową wystąpiły o możliwość przebudowy Kanału Potoku Królewskiego, ale miało się to zamykać w przekroju wewnętrznym 3 na 2 metry. Jest to skandaliczna niezgodność projektu budowlanego, który powinien realizować uzgodnienia zapisane w decyzji środowiskowej. 

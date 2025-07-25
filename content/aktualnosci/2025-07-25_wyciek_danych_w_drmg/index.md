@@ -19,7 +19,7 @@ W ogłoszeniu o przetargu nr 55/BZP-U.500.4.2025/KB na budowę linii tramwajowej
 
 Następnego dnia DRMG usunęła dane ze strony i opublikowała lakoniczny komunikat, z którego nie wynikało, na czym polegał problem i kogo dotyczył.
 
-O sprawie napisał portal wbijamszpile.pl (https://wbijamszpile.pl/wyciek-danych-z-gdanskiego-urzedu-setki-nazwisk-i-adresow-w-sieci/) oraz Radio Gdańsk (https://radiogdansk.pl/wiadomosci/region/trojmiasto/2025/07/24/wyciek-danych-w-gdansku-urzednicy-opublikowali-miedzy-innymi-poufne-informacje-o-mieszkancach/). 
+O sprawie napisał portal wbijamszpile.pl (https://wbijamszpile.pl/wyciek-danych-z-gdanskiego-urzedu-setki-nazwisk-i-adresow-w-sieci/) oraz Radio Gdańsk (https://radiogdansk.pl/wiadomosci/region/trojmiasto/2025/07/24/wyciek-danych-w-gdansku-urzednicy-opublikowali-miedzy-innymi-poufne-informacje-o-mieszkancach/ oraz https://radiogdansk.pl/wiadomosci/region/trojmiasto/2025/07/25/wyciekly-dane-setek-gdanszczan-urzednicy-przyznaja-sie-do-bledu/)
 
 ## Szczegóły naruszenia
 W dokumentacji do przetargu ujawnione zostało ponad 300 stron uproszczonego wypisu z ewidencji gruntów, obejmujących imiona, nazwiska, imiona rodziców, adresy zamieszkania i zameldowania oraz numery ksiąg wieczystych dla prawie 200 adresów. Wyciek dotyczy następujących ulic:

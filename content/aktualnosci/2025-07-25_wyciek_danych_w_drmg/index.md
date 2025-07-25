@@ -7,17 +7,17 @@ tags = ['aktualnosci']
     relative = true
 +++
 
-W środę wieczorem (23 lipca 2025) przesłaliśmy do Dyrekcji Rozbudowy Miasta Gdańska zgłoszenie o naruszeniu ochrony danych osobowych w dokumentacji przetargu dotyczącego linii tramwajowej GP-W.
+W środę, 23 lipca 2025 r., wieczorem, przesłaliśmy do Dyrekcji Rozbudowy Miasta Gdańska (DRMG) zgłoszenie naruszenia ochrony danych osobowych w dokumentacji przetargowej dotyczącej budowy linii tramwajowej GP-W.
 
 <!-- more -->
 
-W dniu 18 czerwca 2025 roku ogłaszając przetarg 55/BZP-U.500.4.2025/KB Gdański Projekt Komunikacji Miejskiej etap VA - budowa linii tramwajowej Gdańsk Południe Wrzeszcz na platformie https://platformazakupowa.pl/transakcja/1102102 opublikowany został w załącznikach uproszczony wypis z ewidencji gruntów wraz ze wszystkimi danymi właścicieli nieruchomości będących w linii budowanej trasy. Co oznacza, że dany były publiczne ponad miesiąc. 
+W ogłoszeniu o przetargu nr 55/BZP-U.500.4.2025/KB na budowę linii tramwajowej w ramach Gdańskiego Projektu Komunikacji Miejskiej (etap VA), opublikowanym 18 czerwca 2025 r. na platformie zakupowej, udostępniono uproszczony wypis z ewidencji gruntów. Zawierał on pełne dane właścicieli nieruchomości zlokalizowanych na trasie planowanej inwestycji. Oznacza to, że dane te były publicznie dostępne przez ponad miesiąc.
 
 ![Zgłoszenie naruszenia przez Dyrekcję Rozbudowy Miasta Gdanska](zgloszenie_drmg.png)
 
 ![Fragment ujawnionych danych](fragment_danych.jpg)
 
-Następnego dnia dane zostały usunięte ze strony przez DRMG i wydany został niewiele mówiący komunikat https://www.drmg.gdansk.pl/index.php/komunikaty/902-informacje-o-zawiadomieniu - z którego nie wynika na czym i kogo dotyczy problem.
+Następnego dnia DRMG usunęła dane ze strony i opublikowała lakoniczny komunikat, z którego nie wynikało, na czym polegał problem i kogo dotyczył.
 
 O sprawie napisał portal wbijamszpile.pl (https://wbijamszpile.pl/wyciek-danych-z-gdanskiego-urzedu-setki-nazwisk-i-adresow-w-sieci/) oraz Radio Gdańsk (https://radiogdansk.pl/wiadomosci/region/trojmiasto/2025/07/24/wyciek-danych-w-gdansku-urzednicy-opublikowali-miedzy-innymi-poufne-informacje-o-mieszkancach/). 
 
@@ -53,12 +53,12 @@ W dokumentacji do przetargu ujawnione zostało ponad 300 stron uproszczonego wyp
 * Edisona
 * Jarowej
 
-Zarówno wolumen ujawnionych danych jak i zawartość pozwala domniemywać że jest to naruszenie znaczące. W szczególności, że za naruszenie odpowiada instytucja zaufania publicznego, która całą sprawę obecnie traktuje mocno po macoszemu. 
+Zarówno ilość, jak i rodzaj ujawnionych danych wskazują na poważne naruszenie. Sytuacja jest tym bardziej niepokojąca, że za wyciek odpowiada instytucja zaufania publicznego, która, jak się wydaje, nie traktuje sprawy z należytą powagą.
 
-Tak jak pisaliśmy, dane były publiczne ponad miesiąc i były pobierane wielokrotnie (strona dotycząca postępowania przetargowego była odwiedzana dwudziestokrotnie częściej niż inne przetargi ogłaszane przez Dyrekcję Rozbudowy Miasta Gdańska). 
+Jak już wspomniano, dane były publicznie dostępne przez ponad miesiąc i w tym czasie pobierano je wielokrotnie. Strona internetowa przetargu cieszyła się dwudziestokrotnie większym zainteresowaniem niż inne postępowania prowadzone przez DRMG.
 
 ## Jakie kroki powinien podjąć mieszkaniec
-Cytując z DRMG, które jednak nie poczuwa się do poinformowania mieszkańców którzy zostali dotknięci wyciekiem danych:
+Poniżej cytujemy komunikat DRMG, która do tej pory nie poinformowała bezpośrednio mieszkańców dotkniętych wyciekiem danych:
 
 > W związku z tą sytuacją istnieje ryzyko pozyskania przez osobę trzecią danych osobowych właścicieli nieruchomości, co mogłoby doprowadzić do posłużenia się tymi danymi. Administrator danych, mając na celu zapewnienie jak najwyższych standardów bezpieczeństwa przetwarzania danych osobowych, informuje o konsekwencjach i negatywnych skutkach, jakie mogą potencjalnie wystąpić w związku naruszeniem ochrony danych.
 > Wyżej opisane naruszenie, może potencjalnie skutkować powstaniem szkód majątkowych lub niemajątkowych, takich jak np.:
@@ -71,7 +71,7 @@ Cytując z DRMG, które jednak nie poczuwa się do poinformowania mieszkańców 
 > * **założyły konto w systemie informacji kredytowej lub gospodarczej w celu dodatkowego zabezpieczenia swoich danych przed nieuprawnionym wykorzystaniem, a także sprawdzenia dotychczasowej historii kredytowej**,
 > * **zastrzegły numer PESEL**.
 
-Przede wszystkim można skontaktować się bezpośrednio z DRMG i zweryfikować czy naruszenie danych osobowych mnie dotyczy. Najlepiej telefonicznie 58 320 51 20 lub mailowo iod.drmg@gdansk.gda.pl (chociaż nie znam czasów odpowiedzi, na nasze zgłoszenie ze środy nikt jeszcze nie odpowiedział).
+Przede wszystkim warto skontaktować się bezpośrednio z DRMG, aby zweryfikować, czy doszło do naruszenia naszych danych osobowych. Można to zrobić telefonicznie (58 320 51 20) lub mailowo (iod.drmg@gdansk.gda.pl). Należy jednak uzbroić się w cierpliwość – na nasze zgłoszenie wysłane w środę wciąż nie otrzymaliśmy odpowiedzi.
 
 ## Zgłoszenie do Urzędu Ochrony Danych Osobowych
 
@@ -95,6 +95,7 @@ Można to zrobić poprzez ePUAP wysłać informację następującej treści.
 
 ---
 
-Czy DRMG miało prawo do przetwarzania danych osobowych w tej formie - nie wiemy. Ale wystąpiliśmy do Wydziału Geodezji Urzędu Miasta, które udostępniło dane, o wyjaśniania. 
+Nie mamy pewności, czy DRMG miało prawo przetwarzać dane osobowe w takiej formie. Wystąpiliśmy już do Wydziału Geodezji Urzędu Miasta, który udostępnił te dane, z prośbą o wyjaśnienia.
 
-Dodatkowo analizujemy temat ze specjalistami z zakresu ochrony danych na temat ewentualnych kolejnych kroków które należałoby podjąć. 
+Dodatkowo, wspólnie ze specjalistami z zakresu ochrony danych, analizujemy możliwe dalsze kroki w tej sprawie.
+ 

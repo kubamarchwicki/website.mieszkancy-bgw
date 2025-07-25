@@ -45,6 +45,15 @@ Co gorsza firma Budomex Trójmiasto sp z o.o. weszła na plac budowy 21 marca 20
 
 Jeśli ktoś zastanawiał się, co oznaczało, gdy prezydent Aleksandra Dulkiewicz i asystujący jej Piotr Grzelak mówili “o ich wyjątkowej determinacji” w realizowaniu trasy tramwajowej GPW, mają odpowiedź. Chodzi o działanie z pominięciem obowiązujących procedur lub wręcz ze złamaniem prawa. Taka metoda działania obowiązuje nie tylko na odcinku biegnącym przez ul. Bohaterów Getta Warszawskiego ale jak widać na całej długości realizowanej trasy. Po raz kolejny mamy do czynienia z kolejnymi setkami tysięcy złotych z kieszeni Gdańszczan wydawanymi w sposób niezgodny nie tylko z interesem mieszkańców ale i z prawem. Pamiętajmy, że na ten projekt z irracjonalnym przebiegiem trasy tramwajowej miasto wydało już kilkanaście milionów złotych, a to dopiero nieśmiały wstęp.  
 
+---
+
+### Uzupełnienie z 2 lipca 2025
+
+Ta historia ma swój szczęśliwy (częściowy) happy end. 10 czerwca 2025 Pomorski Wojewódzki Konserwator Zabytków podjął decyzje o wpisie do rejestru zabytków. 
+
+![Wpis](wpis.png)
+
+Pełna decyzja o wpisie do rejestru zabytków znajduje [jest do pobranie tutaj](2025-06-10_decyzja_wpis.pdf). 
 
 
 {{< gallery path="2025-03-24_gdansk_niszczy_zabytki" title="DRMG nielegalnie rozpoczyna pracę budowlane" show_title="true">}}

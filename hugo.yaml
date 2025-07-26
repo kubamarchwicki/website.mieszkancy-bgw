@@ -21,7 +21,7 @@ menu:
         - name: Aktualności
           url: aktualnosci
           weight: 5
-        - name: Tygodniówka
+        - name: Tramwajówka
           url: tygodniowka/
           weight: 8
         - name: Kalendarium

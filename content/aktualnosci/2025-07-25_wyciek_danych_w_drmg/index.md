@@ -11,6 +11,10 @@ W środę, 23 lipca 2025 r., wieczorem, przesłaliśmy do Dyrekcji Rozbudowy Mia
 
 <!-- more -->
 
+| Aktualizacje |
+| ------------ | -------------- |
+| 28.07.2025   | Dodatkowe wyjaśnienia w temacie skargi do UODO |
+
 W ogłoszeniu o przetargu nr 55/BZP-U.500.4.2025/KB na budowę linii tramwajowej w ramach Gdańskiego Projektu Komunikacji Miejskiej (etap VA), opublikowanym 18 czerwca 2025 r. na platformie zakupowej, udostępniono uproszczony wypis z ewidencji gruntów. Zawierał on pełne dane właścicieli nieruchomości zlokalizowanych na trasie planowanej inwestycji. Oznacza to, że dane te były publicznie dostępne przez ponad miesiąc.
 
 ![Zgłoszenie naruszenia przez Dyrekcję Rozbudowy Miasta Gdanska](zgloszenie_drmg.png)
@@ -77,21 +81,32 @@ Przede wszystkim warto skontaktować się bezpośrednio z DRMG, aby zweryfikowa�
 
 Można też samodzielnie wysłać skargę do UODO - co zostało opisane tutaj: https://uodo.gov.pl/pl/526/2464
 
-Można to zrobić poprzez ePUAP wysłać informację następującej treści.
+Można to zrobić poprzez ePUAP wysłać informację następującej treści. 
 
 **Tytuł: Naruszenie przepisów OODO przez DRMG w Gdańsku**
 
-> W dniu 18 czerwca 2025 roku Dyrekcja Rozbudowy Miasta Gdańska ogłaszając przetarg  55/BZP-U.500.4.2025/KB Gdański Projekt Komunikacji Miejskiej etap VA - budowa linii tramwajowej Gdańsk Południe Wrzeszcz na platformie https://platformazakupowa.pl/transakcja/1102102 opublikowała w załącznikach uproszczony wypis z ewidencji gruntów wraz ze wszystkimi danymi właścicieli nieruchomości będących w linii budowanej trasy.
+> W dniu 18 czerwca 2025 roku Dyrekcja Rozbudowy Miasta Gdańska ogłaszając przetarg  55/BZP-U.500.4.2025/KB Gdański Projekt Komunikacji Miejskiej etap VA - budowa linii tramwajowej Gdańsk Południe Wrzeszcz na platformie https://platformazakupowa.pl/transakcja/1102102 opublikowała w załącznikach uproszczony wypis z ewidencji gruntów wraz ze wszystkimi danymi właścicieli nieruchomości będących w linii budowanej trasy, obejmujące: imię, nazwisko, nazwiska rodziców, adres zameldowania oraz informację o księdze wieczystej nieruchomości. Tym samym, umożliwiając niezwykle proste odnalezienie numeru PESEL osoby.
 > 
 > Dokument był dostępny w " 5. Załączniki do OPZ.zip" w katalogu: Załącznik nr 1 dokumentacja projektowa > 4. inne opracowania > Inwentaryzacja i ocena stanu technicznego w pliku 22_NP_I_Rew.0.pdf
 > 
 > W załączeniu zrzut ekranu z pliku - dostęp z dnia 25 czerwca 2025. 
+>
+> Wnoszę o wszczęcie postępowania administracyjnego wobec Dyrekcji Rozbudowy Miasta Gdańska oraz zastosowanie środków przewidzianych w art. 58 ust. 2 RODO, w tym nałożenie administracyjnej kary pieniężnej, z uwagi na:
+> - brak indywidualnego poinformowania osób, których dane dotyczą,
+>   - zgodnie z art. 34 RODO urząd powinien poinformować każdą osobę indywidualnie, jeśli istnieje wysokie ryzyko naruszenia jej praw lub wolności;
+>   - samo umieszczenie komunikatu na stronie nie spełnia wymogu „poinformowania każdej osoby” – jest to zbyt ogólne i może być uznane za niewystarczające. Komunikat nie zawiera nawet listy ulic, których mieszkańcy zostali dotknięci bezprawnym ujawnieniem danych.
+> - skalę i charakter naruszenia (ujawnienie danych adresowych wielu osób przez ponad miesiąc - od ogłoszenia postępowania w dniu 18 czerwca 2025 do dnia usunięcia wrażliwych danych 23 lipca 2025).
 > 
 > Zgodnie z wyrokiem z dnia 26 września 2017 r. (sygn. akt I SAB/Wa 250/17), w którym Wojewódzki Sąd Administracyjny w Warszawie wyraźnie wskazał: „(...) aby podaniu można było nadać dalszy bieg winno ono zawierać adres osoby je wnoszącej, który może być adresem zamieszkania, pobytu bądź do korespondencji. Niespełnienie zaś tego wymogu nakłada na organ obowiązek pozostawienia podania bez rozpoznania”
 > 
 > Wskazuje adresu poczty tradycyjnej w celu zindywidualizowania mnie jako strony postępowania.
 > 
 > [imię i nazwisko oraz adres korespondencyjny]
+>
+> Załaczniki:
+> - [Fragment udostępnionej ewidencji gruntów, będącej naruszeniem ochrony danych osobowych](fragment_danych.jpg.pdf)
+> - [Zawiadomienie DRMG nie obejmujące informacji o poszkodowanych - dostęp z dnia 28-07-2025](DRMG-zawiadomienie_o_naruszeniu_danych_osobowych.pdf)
+> - [Informacja DRMG o zmianie SWZ ze względu na ochronę danych osobowych](DRMG-zmiana_tresci_SWZ_z_dnia_23.07.2025.pdf)
 
 ---
 

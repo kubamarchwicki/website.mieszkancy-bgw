@@ -43,6 +43,7 @@ outputs:
     - JSON # necessary for search       
 
 params:
+  authors: Strona prowadzona przez Jakub Marchwickiego w ramach Stowarzyszenia Dolina Królewska
   Description: To nasz protest! Od 10 lat walczymy o nasze domy, aby nie podzieliły losy zabytkowych kamienic które włodarze Gdańska nieustannie niszczą.
   cover:
     image: /img/social/bgw-opengraph.png

@@ -44,7 +44,7 @@
             {{- if site.Copyright }}
             <span>{{ site.Copyright | markdownify }}</span>
             {{- else }}
-            <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+            <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a>{{- if ( site.Params.Authors) }}. {{ site.Params.Authors }}{{- end}}</span>
             {{- end }}
         
         {{- end }}

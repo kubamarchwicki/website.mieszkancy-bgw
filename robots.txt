@@ -1,0 +1,7 @@
+# Crawl rules for https://mieszkancybgw.pl/
+User-agent: *
+Allow: /
+Disallow: /search
+Disallow: /index.json
+
+Sitemap: https://mieszkancybgw.pl/sitemap.xml

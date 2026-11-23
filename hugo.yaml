@@ -1,13 +1,12 @@
 baseURL: https://mieszkancybgw.pl/
-languageCode: pl-PL
 title: Mieszkańcy BGW
 theme: ["hugo-embed-pdf-shortcode","PaperMod"]
 enableInlineShortcodes : true
 languages:
   pl:
-    languageCode: pl-PL
-    languageDirection: ltr
-    languageName: Polski
+    locale: pl-PL
+    direction: ltr
+    label: Polski
     weight: 1
 defaultContentLanguage: pl
 defaultContentLanguageInSubdir: false
